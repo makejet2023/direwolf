@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://direwolf.pages.dev/sitemap.xml 
